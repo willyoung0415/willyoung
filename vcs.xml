@@ -22,6 +22,10 @@
           <option name="url" value="ssh://yangwei2@gerrit.cmss.com:29418/OP/bcop_user_manage" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://yangwei2@gerrit.cmss.com:29418/OP/bcop_common_jar" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ideaworkspace\bcop" />
